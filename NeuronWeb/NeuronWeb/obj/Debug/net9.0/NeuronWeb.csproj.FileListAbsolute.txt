@@ -1,0 +1,28 @@
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.exe
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.deps.json
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.runtimeconfig.json
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.dll
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.pdb
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.AssemblyInfoInputs.cache
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.AssemblyInfo.cs
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.csproj.CoreCompileInputs.cache
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.dll
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\refint\NeuronWeb.dll
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.pdb
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.genruntimeconfig.cache
+D:\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\ref\NeuronWeb.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.AssemblyInfoInputs.cache
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.AssemblyInfo.cs
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.csproj.CoreCompileInputs.cache
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\refint\NeuronWeb.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.pdb
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.exe
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.deps.json
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.runtimeconfig.json
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\bin\Debug\net9.0\NeuronWeb.pdb
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\NeuronWeb.genruntimeconfig.cache
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\SiecNeuronowa\NeuronWeb\NeuronWeb\obj\Debug\net9.0\ref\NeuronWeb.dll
