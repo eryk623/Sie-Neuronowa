@@ -1,0 +1,27 @@
+
+<Window x:Class="NeuronWebWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Neuron Web WPF" Height="500" Width="600">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Wybierz zadanie:" Margin="5"/>
+            <ComboBox Name="TaskComboBox" Margin="5" SelectedIndex="0">
+                <ComboBoxItem Content="Zadanie 1"/>
+                <ComboBoxItem Content="Zadanie 2"/>
+                <ComboBoxItem Content="Zadanie 3"/>
+            </ComboBox>
+            
+            <TextBlock Text="Liczba warstw ukrytych:" Margin="5"/>
+            <TextBox Name="HiddenLayersBox" Margin="5" Text="1"/>
+
+            <TextBlock Text="Neuronów w każdej warstwie (oddzielone przecinkami):" Margin="5"/>
+            <TextBox Name="NeuronsPerLayerBox" Margin="5" Text="4"/>
+
+            <Button Content="Trenuj" Margin="5" Click="TrainNetwork_Click"/>
+
+            <TextBlock Text="Wyniki:" Margin="5"/>
+            <TextBox Name="OutputBox" Margin="5" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" Height="200"/>
+        </StackPanel>
+    </Grid>
+</Window>

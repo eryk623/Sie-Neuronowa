@@ -1,0 +1,38 @@
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\bin\Debug\net9.0-windows\NeuronWebWPF.exe
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\bin\Debug\net9.0-windows\NeuronWebWPF.deps.json
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\bin\Debug\net9.0-windows\NeuronWebWPF.runtimeconfig.json
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\bin\Debug\net9.0-windows\NeuronWebWPF.dll
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\bin\Debug\net9.0-windows\NeuronWebWPF.pdb
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF_MarkupCompile.cache
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.g.resources
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.AssemblyInfoInputs.cache
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.AssemblyInfo.cs
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.csproj.CoreCompileInputs.cache
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.dll
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\refint\NeuronWebWPF.dll
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.pdb
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\NeuronWebWPF.genruntimeconfig.cache
+C:\Users\ewidl\Desktop\NeuronWebWPF_NET9\obj\Debug\net9.0-windows\ref\NeuronWebWPF.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\bin\Debug\net9.0-windows\NeuronWebWPF.exe
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\bin\Debug\net9.0-windows\NeuronWebWPF.deps.json
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\bin\Debug\net9.0-windows\NeuronWebWPF.runtimeconfig.json
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\bin\Debug\net9.0-windows\NeuronWebWPF.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\bin\Debug\net9.0-windows\NeuronWebWPF.pdb
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF_MarkupCompile.cache
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.g.resources
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.AssemblyInfoInputs.cache
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.AssemblyInfo.cs
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.csproj.CoreCompileInputs.cache
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\refint\NeuronWebWPF.dll
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.pdb
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\NeuronWebWPF.genruntimeconfig.cache
+C:\Users\ewidl\OneDrive - University of Warmia and Mazuria in Olsztyn\6-SEMESTR\MIW\Sieć Neuronowa\NeuronWebWPF\obj\Debug\net9.0-windows\ref\NeuronWebWPF.dll
